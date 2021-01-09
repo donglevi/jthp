@@ -1,0 +1,1 @@
+<input class="filled-in" id="id{{ $id }}" type="checkbox" name="selData" value="{{ $id }}"><label for="id{{ $id }}"></label>
